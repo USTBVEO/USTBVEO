@@ -1,8 +1,9 @@
 ## 猎杀时刻 👋
 
+![数码宝贝3](./shumabaobei3_1.jpeg "建良建良！")
+
 菜鸟一只，偶尔写点代码丢上来  
-主修功法：js/ts，nodejs  
-还修炼过java，不过感觉这门功法会掉头发，就放弃了  
+主修功法：javascript，nodejs  
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roco2015&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
