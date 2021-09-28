@@ -1,6 +1,6 @@
 ## 莫慢待 👋
 
-![数码宝贝3](./shumabaobei3_2.jpeg "建良建良！")
+![数码宝贝3](./shumabaobei3_2.jpg "建良建良！")
 
 菜鸟一只，偶尔写点代码丢上来  
 主修功法：javascript，nodejs  
